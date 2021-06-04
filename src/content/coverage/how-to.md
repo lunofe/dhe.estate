@@ -19,6 +19,10 @@ removeBlur = false
 <small>*Note: This article was made for Minecraft 1.12 and may not work on
 future Minecraft versions.*</small>
 
+Table of contents
+
+{{< toc >}}
+
 ### Fixing common problems:
 
 - Almost everything about the Vampirism Mod can be found within the
