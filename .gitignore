@@ -1,2 +1,3 @@
-log/*
-src/public/*
+/log/*
+/src/public/*
+/src/resources
