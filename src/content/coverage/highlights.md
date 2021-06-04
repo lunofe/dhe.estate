@@ -8,7 +8,7 @@ categories = ["Coverage"]
 comments = true
 removeBlur = false
 [[images]]
-  src = ""
+  src = "/image/clipart/globe.svg"
   alt = ""
   # Horizontal, vertical, or both
   stretch = ""
