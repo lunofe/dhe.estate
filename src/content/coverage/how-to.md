@@ -3,8 +3,8 @@ title = "How to - Vampirism Mod"
 description = "How to do usually unobvious things within the Minecraft Vampirism mod."
 author = "DHE Government"
 date = "2021-04-17"
-tags = ["Coverage"]
-categories = ["Objective"]
+tags = ["Objective"]
+categories = ["Coverage"]
 comments = true
 removeBlur = false
 [[images]]
