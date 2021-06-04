@@ -9,6 +9,7 @@ clean:
 	rm --recursive --dir $(DEST)/* || true
 
 compress:
+	[ ! -d $(DEST) ] && mkdir --parents $(DEST) || true
 	chmod --changes -rwx $(SRC)/themes >> log/chmod.log
 	gzip --recursive --verbose --keep $(DEST)/*/*.css || true
 	gzip --recursive --verbose --keep $(DEST)/*.css || true
@@ -23,10 +24,11 @@ compress:
 	chmod --changes u+rwx,g+rx $(SRC)/themes >> log/chmod.log
 
 build: clean $(COMP)
+	[ ! -d $(DEST) ] && mkdir --parents $(DEST) || true
 	chmod --changes u+rwx,g+rx $(SRC)/themes >> log/chmod.log
-	hugo --buildDrafts --logFile=log/hugo_build.log --source="$(SRC)"
+	hugo --source="$(SRC)"
 
 deploy:
-	hugo server --minify --disableFastRender --source="$(SRC)"
+	hugo server --disableFastRender --source="$(SRC)"
 
 .PHONY: clean build deploy
