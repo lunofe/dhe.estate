@@ -29,7 +29,6 @@ requiring referendum actions.
 
 Policies have less requirements and relatively less impacts. Laws have higher
 requirements and higher impacts.
-[Executive] Counter-Intelligence
 
 ## [Executive] Counter-Intelligence
 
