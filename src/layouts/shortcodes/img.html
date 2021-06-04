@@ -1,0 +1,7 @@
+{{- $src := .Get "src" -}}
+{{- with .Parent -}}
+	<img src="{{$src}}" class="{{.Get "class"}}-image" max-width="400" max-height="600">
+{{- else -}}
+	<img src="{{$src}}" max-width="400" max-height="600">
+{{- end }}
+

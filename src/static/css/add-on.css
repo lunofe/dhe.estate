@@ -1,0 +1,42 @@
+/*
+
+Dark style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiacs.Org>
+
+*/
+
+/* Variables */
+:root {
+	--hue-const: 240
+}
+
+#site-nav {
+	background-color: hsl(var(--hue-const), 0%, 10%);
+	color: lightblue;
+}
+body,
+article.post,
+article.mini-post, div.post,
+header {
+	background-color: hsl(var(--hue-const), 10%, 15%);
+}
+
+h1, h2, h3, h4, h5, h6,
+header a.nav,
+p, a,
+li, lu,
+time,
+a.button.button {
+	color: lightblue;
+}
+
+code {
+	color: white;
+}
+
+menu#site-nav-menu.flyout-menu.active {
+	background-color: hsl(var(--hue-const), 10%, 10%);
+}
+
+* { scrollbar-color: #191919 black; } /* Gecko Browser Family */
+*::-webkit-scrollbar-thumb { background: #191919; } /* Blink & Webkit Browser Families */
+*::-webkit-scrollbar { background-color: black; } /* Blink & Webkit Browser Families */

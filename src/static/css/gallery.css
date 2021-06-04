@@ -1,0 +1,12 @@
+gallery {
+	height: 100%;
+	width: 100%;
+	display: grid;
+	/* Apparently unnecessary
+	  grid-column-gap: 15vh 15vw;
+	*/
+	grid-template-columns: 45% 45%;
+}
+gallery figure.content-gallery {
+	background-color: hsl(var(--hue-const), 10%, 15%);
+}

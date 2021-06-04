@@ -1,0 +1,186 @@
+# For a description of these parameters, please visit the theme wiki.
+# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
+baseurl                 = "https://dhe.estate"
+DefaultContentLanguage  = "en"
+title                   = "Democratic Hunter Empire"
+theme                   = ["hugo-future-imperfect-slim"]
+paginate                = 3
+disqusShortname         = ""
+googleAnalytics         = ""
+pluralizeListTitles     = false
+disableLanguages        = []
+
+[server]
+	[[server.headers]]
+	for = "/**.html"
+		[server.header.values]
+		Content-Security-Policy = "script-src localhost:1313"
+		Referrer-Policy = "strict-origin-when-cross-origin"
+		X-Content-Type-Options = "sniff"
+		X-Frame-Options = "DENY"
+		X-XSS-Protection = "1; mode=block"
+
+
+
+[markup.goldmark.renderer]
+  unsafe                = true
+
+[outputs]
+  home                  = ["html", "json", "rss"]
+
+[params]
+  enableCDN             = false
+  cssFiles              = ["default"]
+  jsFiles               = ["default"]
+  highlightjs           = false
+  highlightjsTheme      = ""
+  highlightjsLang       = []
+  viewMorePostsLink     = "blog"
+  readingTime           = true
+  imageStretch          = ""
+  removeBlur            = false
+  # socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
+  socialShare           = ["discord"]
+  hideEmptyStats        = false
+
+  [params.meta]
+    description         = "To protect humanities' next sunrise."
+    author              = "DHE Web Developers"
+    favicon             = true
+    svg                 = false
+    # The option below causes issues and thusly commented out:
+    faviconVersion      = "2"
+    msColor             = "#ffffff"
+    iOSColor            = "#ffffff"
+
+  [params.header]
+    navbarTitle         = "Democratic Hunter Empire"
+    dynamicTitles       = true
+    searchMenu          = true
+    shareMenu           = false
+    languageMenu        = false
+
+  [params.intro]
+    header                = "Long Live Humanity"
+    paragraph             = "To protect all that there is and shall be, through democracy for humanity"
+    rssIntro              = true
+    socialIntro           = false
+    hideWhenSingleColumn  = false
+    alwaysOnHomepage      = false
+
+    [params.intro.pic]
+      src                 = "image/official-hunter-banner.png"
+      shape               = "circle"
+      width               = ""
+      alt                 = "Banner of the DHE"
+
+  [params.sidebar]
+    about               = "The Democratic Hunter Empire is an organization consisting of Vampire Hunters both new and old."
+    postAmount          = 5
+    categories          = true
+    categoriesByCount   = true
+
+  [params.footer]
+    rssFooter           = true
+    socialFooter        = true
+
+  [params.utterances]
+    enabled             = false
+    repo                = ""
+    issueTerm           = "pathname"
+    issueNumber         = ""
+    label               = "" 
+    theme               = "github-light"
+
+  [params.staticman]
+    enabled             = false
+    api                 = ""  # No Trailing Slash
+    gitProvider         = ""
+    username            = ""
+    repo                = ""
+    branch              = ""
+
+    [params.staticman.recaptcha]
+      siteKey           = ""
+      encryptedKey      = ""
+
+[menu]
+
+  [[menu.main]]
+    name              = "Information"
+    identifier        = "information"
+    url               = "information"
+    pre               = ""
+    weight            = 1
+
+  [[menu.main]]
+    name              = "Activity"
+    identifier        = "activity"
+    url               = "activity"
+    pre               = ""
+    weight            = 2
+
+  [[menu.main]]
+    name              = "Network"
+    identifier        = "network"
+    url               = "network"
+    pre               = ""
+    weight            = 3
+
+  [[menu.main]]
+    name              = "Coverage"
+    identifier        = "coverage"
+    url               = "coverage"
+    pre               = ""
+    weight            = 4
+
+[social]
+  # Coding Communities
+  # github                = "pacollins/hugo-future-imperfect-slim"
+  # gitlab                = ""
+  # stackoverflow         = "" # User Number
+  # bitbucket             = ""
+  # jsfiddle              = ""
+  # codepen               = ""
+  # Visual Art Communities
+  # deviantart            = ""
+  # flickr                = "example"
+  # behance               = ""
+  # dribbble              = ""
+  # Publishing Communities
+  # wordpress             = ""
+  # medium                = ""
+  # Professional/Business Oriented Communities
+  # linkedin              = "example"
+  # linkedin_company      = "examplebusiness"
+  # foursquare            = ""
+  # xing                  = ""
+  # slideshare            = ""
+  # Social Networks
+  # facebook              = "example"
+  # googleplus            = ""
+  # reddit                = "example"
+  # quora                 = ""
+  # youtube               = ""
+  # vimeo                 = ""
+  # whatsapp              = "" # WhatsApp Number
+    # WeChat and QQ need testing.
+    # wechat              = ""
+    # qq                  = "" # User ID Number
+  # instagram             = "example"
+  # tumblr                = ""
+  # twitter               = "example"
+  # strava                = ""
+  # skype                 = ""
+  # snapchat              = ""
+  # pinterest             = "example"
+  # telegram              = "example"
+  # vine                  = ""
+  # googlescholar         = ""
+  # orcid                 = ""
+  # researchgate          = "example"
+  # keybase               = "example"
+  # mastodon              = "example.com/@example"
+  # Email
+  # email                 = "example"
+  discord               = "https://discord.com"
