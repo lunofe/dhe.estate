@@ -22,7 +22,7 @@ The world is full of Vampires. Some Vampires are good, some are egregiously
 evil. The ultimate truth is that creatures who sustain themselves on the blood
 of innocent, intelligent people like villagers are captured by a disease that
 *can* be cured. It's not about purging and killing these creatures, **it is
-about helping them to a more prosperous world for the benefit world for all.**
+about helping them to a more prosperous world for the benefit of all.**
 
 Use these images to spread the word: we seek a positive and healthy world!
 
