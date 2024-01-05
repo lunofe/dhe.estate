@@ -1,0 +1,92 @@
+/*
+    Democratic Hunter Empire ("DHE") Roleplay Faction
+    Copyright (C) 2020, DHE Web Developers
+  
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
+    
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+    
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+
+/*
+    Inject in <head> the following:
+    <link rel="stylesheet" type="text/css" href="default.css">
+*/
+
+body {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+@font-face {
+    /* Credit: http://fontlibrary.org/en/font/el-messiri */
+    font-family: ElMessiri-Regular;
+    src: url('fonts/el-messiri/ElMessiri-Regular.ttf');
+}
+@font-face {
+    /* Credit: http://fontlibrary.org/en/font/el-messiri */
+    font-family: ElMessiri-Bold;
+    src: url('fonts/el-messiri/ElMessiri-Bold.ttf');
+    font-weight: bold;
+}
+a:link {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover {
+    color: lightblue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+    font-style: italic;
+}
+.background-uid-1 {
+    background-image: url('images/purtania-generic_2-darkened.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.specialQuote {
+    font-size: 85%;
+    font-style: italic;
+}
+.table_1 {
+    width: 100%;
+    border: 1px solid white;
+    border-collapse: collapse;
+    text-align: center;
+    border-spacing: 3px;
+}
+
+/* PLACEHOLDERS
+
+tr:nth-child(even) {
+  background-color: purple;
+}
+td, th {
+  border: 1px solid gray;
+  text-align: left;
+  padding: 7px;
+}
+
+*/

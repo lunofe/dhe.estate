@@ -1,0 +1,90 @@
+/*
+    Democratic Hunter Empire ("DHE") Roleplay Faction
+    Copyright (C) 2020, DHE Web Developers
+  
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as
+    published by the Free Software Foundation, either version 3 of the
+    License, or (at your option) any later version.
+    
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+    
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+*/
+
+/*
+    Inject in <head> the following:
+    <link rel="stylesheet" type="text/css" href="layout.css">
+     
+    Further reading: https://www.w3schools.com/html/html_layout.asp
+*/
+
+.flexContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap /* Wrapping can disrupt the content flow */
+    justify-content: left; /* Left to right */
+    align-items: left;
+    justify-content: flex-start; /* Container starts at beginning, this makes it explicit behavior */
+    justify-content: space-between;
+}
+* {
+  box-sizing: border-box;
+}
+.header {
+  background-color: #4C4C63;
+  padding: 5px;
+  text-align: center;
+  font-size: 27px;
+  color: white;
+  font-family: serif;
+}
+.boxedText {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: transparent;
+}
+.footer {
+  background-color: #4C4C63;
+  padding: 10px;
+  text-align: center;
+  color: red;
+}
+.tabSingle {
+    margin-left: 40px;
+}
+.tabDouble {
+    margin-left: 80px;
+}
+/* Two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  height: 500px;
+  background: #19111F;
+  padding: 20px;
+}
+/* ul within the nav */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+/* Clears the floats after the columns */
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+  height: 100%;
+}
+/* Helps with smaller screens, such as phones */
+@media (max-width: 600px) {
+  nav, boxedText {
+    width: 100%;
+    height: auto;
+  }
+}
