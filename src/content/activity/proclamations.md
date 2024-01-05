@@ -14,7 +14,7 @@ removeBlur = false
   stretch = ""
 +++
 
-# [Proclamations](http://en.wikipedia.org/w/index.php?title=Proclamation&oldid=920900945) for foreigners by the Democratic Hunter Empire.
+# [Proclamations](https://en.wikipedia.org/w/index.php?title=Proclamation&oldid=920900945) for foreigners by the Democratic Hunter Empire.
 
 ### Monroe Doctrine
 

@@ -30,7 +30,7 @@ removeBlur = false
   Slim](https://github.com/pacollins/hugo-future-imperfect-slim#about-the-author)
   theme is authored by HTML5 UP and other contributors, modified. [Licensed
   under Creative Commons Attribution 3.0
-  Unported](http://creativecommons.org/licenses/by/3.0/).
+  Unported](https://creativecommons.org/licenses/by/3.0/).
 
 ### Images
 
