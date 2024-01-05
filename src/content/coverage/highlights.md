@@ -17,7 +17,7 @@ removeBlur = false
 # News & Highlights:
 
 - The DHE and VE has agreed to a [peace
-  treaty](https://old.dhe.estate/site/laws.html#dhe_ve_peace_treaty). (2021
+  treaty](/dhe/modern/information/laws/#dhe-ve-peace-treaty---active). (2021
   March 26)
 - [Kranz](https://namemc.com/profile/ce088023-21fa-493a-b080-c8177879bf4f) is
   elected to President of the High Council (2021 February 14)

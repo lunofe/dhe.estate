@@ -26,7 +26,7 @@ removeBlur = false
 
 <u>Government form</u>: Democracy |
 
-[Flag/Banner](image/official-hunter-banner.png):
+[Flag/Banner](/dhe/modern/image/official-hunter-banner.png):
 [Crafting Recipe](https://www.needcoolshoes.com/banner?=eaaBalpcawaipz).
 
 <u>National Day</u>: May 4th: First Democratic Election (Day of Democracy).
@@ -65,9 +65,9 @@ The Hunters are ruled by their people and reject any non-democratic parties and
 groups in the Empire.
 
 
-- [Constitution (PDF)](pdf/constitution.pdf)
+- [Constitution (PDF)](/dhe/modern/pdf/constitution.pdf)
   <br>
-- [Simplified, unofficial constitution (PDF)](pdf/constitution_simplified.pdf)
+- [Simplified, unofficial constitution (PDF)](/dhe/modern/pdf/constitution_simplified.pdf)
 
 ## Election Dates
 

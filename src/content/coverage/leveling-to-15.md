@@ -34,7 +34,7 @@ Continuing to read this means you are okay with spoilers.
   Research Table but do not actually craft it.
 - Replace the wood with End Stone Brick and the garlic with an Eye of Ender.
   You now have a "Strange Hunter Research Table." [Craft and place it
-  down](/image/strange_hunter_table_craft_1.png).
+  down](/dhe/modern/image/strange_hunter_table_craft_1.png).
 - Open the Strange Hunter Research Table and input the requirements.
 - While still wearing the Hunter Hat go to a Vampire Hunter Trainer and input
   the Trainer's requirements.
@@ -46,7 +46,7 @@ Congratulations, you did it.
 - Craft and wear a Vampire Cloak.
 - Go to your ritual area that you use to level up. Replace the gold blocks
   within the pillars to End Stone Bricks (from [gold to End Stone
-  Bricks](/image/level_15_vamp_ritual.png)).
+  Bricks](/dhe/modern/image/level_15_vamp_ritual.png)).
 - While still wearing a Vampire Cloak go to your ritual area and right click
   the Altar of Infusion block (make sure your holding an item) and input the
   requirements, which should include Purity 6/5 Blood, 64 Human Hearts, and a

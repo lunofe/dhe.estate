@@ -33,4 +33,4 @@ requirements and higher impacts.
 ## [Executive] Counter-Intelligence
 
 To protect against foreign intervention and intelligence gathering. [Full
-Text](/pdf/policies/counter-intelligence.pdf)
+Text](/dhe/modern/pdf/policies/counter-intelligence.pdf)

@@ -27,11 +27,11 @@ about helping them to a more prosperous world for the benefit of all.**
 Use these images to spread the word: we seek a positive and healthy world!
 
 <gallery width="100%">
-{{< figure class="content-gallery" src="/image/propaganda/beat_back_the_vamp_with_stakes-join_the_hunters.jpg" >}}
-{{< figure class="content-gallery" src="/image/propaganda/free_the_sea.jpg" >}}
-{{< figure class="content-gallery" src="/image/propaganda/hunt_on.jpg" >}}
-{{< figure class="content-gallery" src="/image/propaganda/in_the_trenches-kill_the_vampires.jpg" >}}
-{{< figure class="content-gallery" src="/image/propaganda/knowledge_and_power-join_the_hunters.jpg" >}}
-{{< figure class="content-gallery" src="/image/propaganda/mankind_stays_together.jpg" >}}
-{{< figure class="content-gallery" src="/image/propaganda/we_are_serving_mankind-save_the_genes.jpg" >}}
+{{< figure class="content-gallery" src="/dhe/modern/image/propaganda/beat_back_the_vamp_with_stakes-join_the_hunters.jpg" >}}
+{{< figure class="content-gallery" src="/dhe/modern/image/propaganda/free_the_sea.jpg" >}}
+{{< figure class="content-gallery" src="/dhe/modern/image/propaganda/hunt_on.jpg" >}}
+{{< figure class="content-gallery" src="/dhe/modern/image/propaganda/in_the_trenches-kill_the_vampires.jpg" >}}
+{{< figure class="content-gallery" src="/dhe/modern/image/propaganda/knowledge_and_power-join_the_hunters.jpg" >}}
+{{< figure class="content-gallery" src="/dhe/modern/image/propaganda/mankind_stays_together.jpg" >}}
+{{< figure class="content-gallery" src="/dhe/modern/image/propaganda/we_are_serving_mankind-save_the_genes.jpg" >}}
 </gallery>

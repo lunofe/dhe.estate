@@ -63,11 +63,11 @@ Blood Sieve will output normal and drinkable blood. This can be automated by
 putting (from top to bottom) a chest, hopper, Blood Grinder, Blood Sieve, then
 a Blood Container at the bottom to collect the blood.
 
-- [Making Impure Blood.](/image/material_to_blood-2.png)
+- [Making Impure Blood.](/dhe/modern/image/material_to_blood-2.png)
 - [Converting Impure Blood to Drinkable
-  Blood.](/image/impure_blood_to_blood-2.png)
+  Blood.](/dhe/modern/image/impure_blood_to_blood-2.png)
 - [Making Impure Blood to Drinkable Blood - 2 in 1
-  system.](/image/material_to_blood-2.png)
+  system.](/dhe/modern/image/material_to_blood-2.png)
 
 ### Removing Sanguinare Vampiris:
 

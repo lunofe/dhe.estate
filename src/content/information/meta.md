@@ -19,17 +19,18 @@ removeBlur = false
  is created for roleplay and clearly endorses Vampire-Hunter biases. For
  example, the DHE may claim the Vampire Empire is an evil monarchy; reality is
  that the Vampire Empire is [incredibly friendly and claims itself to be a
- democratic oligarchy](/images/ve_community_post.png).
+ democratic oligarchy](/dhe/modern/image/ve_community_post.png).
 
 ## Copyrights
 
-* Content of [dhe.estate](https://dhe.estate) is released under [Creative Commons
-  Attribution-Sharealike 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-  unless otherwise stated.
+* Content of `vampirism.co/dhe/modern`, formerly `dhe.estate` is released under
+  [Creative Commons Attribution-Sharealike
+  4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless otherwise stated.
+  [Get the source here.](https://github.com/lunofe/dhe.estate/tree/modern)
 * [Hugo Future Imperfect
   Slim](https://github.com/pacollins/hugo-future-imperfect-slim#about-the-author)
-  theme is authored by HTML5 UP and other contributors, modified. [Licensed
-  under Creative Commons Attribution 3.0
+  theme is authored by HTML5 UP and other contributors, modified. Licensed
+  under [Creative Commons Attribution 3.0
   Unported](https://creativecommons.org/licenses/by/3.0/).
 
 ### Images
@@ -46,16 +47,14 @@ removeBlur = false
   work by Purzen, modified.
 * [megaphone.svg](https://openclipart.org/detail/211208/loud-megaphone) is a
   Public Domain work by Qubodup, modified
-* [individual_trio.svg](image/clipart/individual_trio.svg) is a Public Domain
+* [individual_trio.svg](/dhe/modern/image/clipart/individual_trio.svg) is a Public Domain
   work based on the work of
   [GDP](https://openclipart.org/detail/314197/man-in-suit-icon)
 * [single_book.svg](https://openclipart.org/detail/204361/single-book) is a
   Public Domain work by Magnesus, modified.
 * [jubilee-crown.svg](https://openclipart.org/detail/170034/jubilee-crown-blue)
   is a Public Domain work by Mr. Johnny P., modified.
-<!--
 * [internet_pictogram.svg](https://freesvg.org/internet-pictogram) is a Public
   Domain work by Openclipart.
 * [caduceus.svg](https://freesvg.org/1496970599) is a Public Domain work by
   OpenClipart.
--->

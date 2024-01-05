@@ -62,7 +62,7 @@ September 2019, Kranzy and Tomas has completely converted to Hunterism and
 allied with Pendragon. Afterwards, the three held the second election for
 Vampire Hunter leadership. The election was a success with no opposition. This
 time period was known as the [Second Era of
-Hunters](/images/second_era_elections.png). Kranzy held
+Hunters](/dhe/modern/image/second_era_elections.png). Kranzy held
 Consulship, Pendragon and Tomas both held Co-Consulship. The three made massive
 gains for Vampire Hunters:
 
@@ -100,15 +100,15 @@ Server reset of January 2020, the third Vampire Hunter election took place.
 Kranzy, Pendragon, and Tomas once again became a candidate party for DHE
 leadership. The three candidates were without opposition and won the election.
 This time period was known as the Third Era of Hunters. In this [Third Era of
-Hunters](/images/third_era_elections.png), a formal
-[Constitution](/pdf/constitution.pdf) was made, formal [governmental
-positions](/about/empire.html) were created, and the founding of the DHE's
+Hunters](/dhe/modern/image/third_era_elections.png), a formal
+[Constitution](/dhe/modern/pdf/constitution.pdf) was made, formal [governmental
+positions](/dhe/modern/information/empire.html) were created, and the founding of the DHE's
 Capital City: Purtania.
 
 Early March 2020, the DHE is at war with Vampires led by Vampire Lord
 [S_olace](https://namemc.com/profile/84b8aa9f-cfc4-4154-abae-37faa82745b5).
 The Vampires are cowering and Vampire Hunters have grown immensely, and continue
-to grow. [And you can be part of it](/).
+to grow. [And you can be part of it](/dhe/modern).
 
 2020 May 4, the DHE National day, held an event hunting multiple Wither
 Skeletons simultaneously. The Minecraft Gods blessed this day with an company
@@ -119,7 +119,7 @@ night sky was ablazed with fireworks.
 
 2020 May 31, the Battle for the Ender Dragon's Egg between the DHE and the
 Vampire Empire was won by a third party group called the [White
-Lotus](/information/foreign-affairs/#white_lotus). Later, White Lotus donated
+Lotus](/dhe/modern/network/foreign-affairs/#white_lotus). Later, White Lotus donated
 the Ender Dragon's Egg to the Vampire Empire.
 
 2021 January 6,
