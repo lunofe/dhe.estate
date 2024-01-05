@@ -29,12 +29,12 @@ body {
     font-family: sans-serif;
 }
 @font-face {
-    /* Credit: http://fontlibrary.org/en/font/el-messiri */
+    /* Credit: https://fontlibrary.org/en/font/el-messiri */
     font-family: ElMessiri-Regular;
     src: url('fonts/el-messiri/ElMessiri-Regular.ttf');
 }
 @font-face {
-    /* Credit: http://fontlibrary.org/en/font/el-messiri */
+    /* Credit: https://fontlibrary.org/en/font/el-messiri */
     font-family: ElMessiri-Bold;
     src: url('fonts/el-messiri/ElMessiri-Bold.ttf');
     font-weight: bold;
@@ -61,7 +61,7 @@ a:hover {
     font-style: italic;
 }
 .background-uid-1 {
-    background-image: url('images/purtania-generic_2-darkened.png');
+    background-image: url('images/purtania-generic_2-darkened.webp');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
