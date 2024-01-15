@@ -35,29 +35,34 @@ removeBlur = false
 
 Head of State:
 <br>
-- Imperator: [Saxtreme](https://namemc.com/profile/7a02cdd6-a3c2-4ed9-b321-9ddab2aa77ac)
+- Imperator: [Kranzy](https://namemc.com/profile/ce088023-21fa-493a-b080-c8177879bf4f)
 <br>
 - Consuls:
-  [ElectricEvader](https://namemc.com/profile/7de6da1a-dcc3-4023-9953-654f19f88b0b)
+  [\_Beowulf\_\_](https://namemc.com/profile/8594530c-e565-4225-ae35-e64474092cb3)
   and
-  [SoapyTrait](https://namemc.com/profile/622c377d-067c-4a57-8a5d-97c93b3941b9)
+  [TescosPlasticBag](https://namemc.com/profile/60ac5d06-7808-4337-8143-65b50edc30b5)
 
 
 Ministries:
 <br>
 - Counterintelligence:
-  [_matheo_](https://namemc.com/profile/40b0a0b7-06c8-4559-ba5f-1451f2d2e6ee)
+  [\_matheo\_](https://namemc.com/profile/40b0a0b7-06c8-4559-ba5f-1451f2d2e6ee)
+- Propaganda:
+  [AngelOfTheAether](https://namemc.com/profile/918ba36b-199a-4036-aceb-d064728c3990)
 
 
 High Council:
   <br>
 - High Council President:
-  [Kranzy](https://namemc.com/profile/ce088023-21fa-493a-b080-c8177879bf4f)
+  *Vacant*
   <br>
 - High Council Members:
   [XxTomasVxX](https://namemc.com/profile/1d408d8c-0818-4a92-9dac-078e7691dbfd),
+  [xXvPendragonvXx](https://namemc.com/profile/d4e6b6cb-1371-4486-bbf3-5d71a53a9c50),
+  [SoapyTrait](https://namemc.com/profile/622c377d-067c-4a57-8a5d-97c93b3941b9),
+  [ThugPug43](https://namemc.com/profile/98105ad8-080a-4d70-a5da-0cc27a833309)
   and
-  [xXvPendragonvXx](https://namemc.com/profile/d4e6b6cb-1371-4486-bbf3-5d71a53a9c50).
+  [Emberball](https://namemc.com/profile/e966f0c4-efcd-435c-83eb-41ab9485dda8)
 
 ## Constitution
 
@@ -71,6 +76,6 @@ groups in the Empire.
 
 ## Election Dates
 
-- <u>Previous Election</u>: 2021 January 7
+- <u>Previous Election</u>: 1st of June, 2021.
   <br>
-- <u>Next Election</u>: 2021 June 1 to 7
+- <u>Next Election</u>: 1st of January, 2022.
