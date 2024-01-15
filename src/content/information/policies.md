@@ -34,3 +34,8 @@ requirements and higher impacts.
 
 To protect against foreign intervention and intelligence gathering. [Full
 Text](/dhe/modern/pdf/policies/counter-intelligence.pdf)
+
+## [Executive] Propaganda
+
+To supervise domestic and foreign distribution of news and keep the mind of
+mankind pure. [Full Text](/dhe/modern/pdf/policies/propaganda-policy.pdf)
